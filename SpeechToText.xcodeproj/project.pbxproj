@@ -9,11 +9,11 @@
 /* Begin PBXBuildFile section */
 		1182DF321EE1567400B36BB9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1182DF311EE1567400B36BB9 /* AppDelegate.swift */; };
 		1182DF341EE1567400B36BB9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1182DF331EE1567400B36BB9 /* ViewController.swift */; };
-		1182DF371EE1567400B36BB9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1182DF351EE1567400B36BB9 /* Main.storyboard */; };
 		1182DF391EE1567400B36BB9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1182DF381EE1567400B36BB9 /* Assets.xcassets */; };
 		1182DF3C1EE1567400B36BB9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1182DF3A1EE1567400B36BB9 /* LaunchScreen.storyboard */; };
 		1182DF471EE1567400B36BB9 /* SpeechToTextTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1182DF461EE1567400B36BB9 /* SpeechToTextTests.swift */; };
 		1182DF521EE1567400B36BB9 /* SpeechToTextUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1182DF511EE1567400B36BB9 /* SpeechToTextUITests.swift */; };
+		1182DF621EF67AC600B36BB9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1182DF351EE1567400B36BB9 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -232,9 +232,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1182DF621EF67AC600B36BB9 /* Main.storyboard in Resources */,
 				1182DF3C1EE1567400B36BB9 /* LaunchScreen.storyboard in Resources */,
 				1182DF391EE1567400B36BB9 /* Assets.xcassets in Resources */,
-				1182DF371EE1567400B36BB9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -507,6 +507,7 @@
 				1182DF581EE1567400B36BB9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1182DF591EE1567400B36BB9 /* Build configuration list for PBXNativeTarget "SpeechToTextTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +516,7 @@
 				1182DF5B1EE1567400B36BB9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1182DF5C1EE1567400B36BB9 /* Build configuration list for PBXNativeTarget "SpeechToTextUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +525,7 @@
 				1182DF5E1EE1567400B36BB9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
