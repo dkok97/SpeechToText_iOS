@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					1182DF2D1EE1567400B36BB9 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = LKPKG2S4VB;
 						ProvisioningStyle = Automatic;
 					};
 					1182DF411EE1567400B36BB9 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = LKPKG2S4VB;
 				INFOPLIST_FILE = SpeechToText/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cs33.SpeechToText;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = LKPKG2S4VB;
 				INFOPLIST_FILE = SpeechToText/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cs33.SpeechToText;
